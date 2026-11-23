@@ -1,6 +1,433 @@
 {
  "products": [
   {
+   "id": "P-527",
+   "name": "Set navideño completo de 106 piezas con estrella",
+   "cat": "navidad",
+   "price": 42,
+   "desc": "Set completo de 106 piezas para decorar el árbol de Navidad: esferas de 8 cm en diferentes tamaños y diseños, copos y adornos navideños, tubitos decorativos, colgadores para las esferas y una estrella para la punta del árbol. Viene en caja transparente con asa, fácil de guardar de un año a otro. Disponible en rojo y verde, negro y dorado, rojo y dorado, plateado, y dorado con blanco; elige el color al agregarlo al carrito.",
+   "feats": [
+    "106 piezas en un solo set",
+    "Esferas de 8 cm y adornos variados",
+    "Incluye estrella para la punta y colgadores",
+    "Caja transparente con asa",
+    "Cinco combinaciones de color, a elegir"
+   ],
+   "imgs": [
+    "img/p/p-527-0.jpg",
+    "img/p/p-527-1.jpg",
+    "img/p/p-527-2.jpg",
+    "img/p/p-527-3.jpg",
+    "img/p/p-527-4.jpg"
+   ],
+   "thumb": "img/p/p-527-s.jpg",
+   "src": "4ead70d6644c",
+   "added": "2026-11-23T03:18:42.935471+00:00",
+   "status": "pendiente",
+   "opciones": [
+    {
+     "nombre": "Color",
+     "valores": [
+      "Rojo y verde",
+      "Negro y dorado",
+      "Rojo y dorado",
+      "Plateado",
+      "Dorado y blanco"
+     ],
+     "fotos": [
+      0,
+      1,
+      2,
+      3,
+      4
+     ]
+    }
+   ]
+  },
+  {
+   "id": "P-528",
+   "name": "Set de 2 esferas navideñas gigantes de 20 cm",
+   "cat": "navidad",
+   "price": 19,
+   "desc": "Set de 2 esferas navideñas gigantes de 20 cm cada una, con acabados brillantes y decorativos: una con franjas y brillo, y otra con relieve tipo diamante. Ideales para árboles grandes, centros de mesa y decoraciones navideñas elegantes. Vienen en tubo transparente. Color según disponibilidad (en la foto, rosado metalizado).",
+   "feats": [
+    "2 esferas de 20 cm",
+    "Acabados brillantes y con relieve",
+    "Ideales para árboles grandes",
+    "Vienen en tubo transparente"
+   ],
+   "imgs": [
+    "img/p/p-528-0.jpg"
+   ],
+   "thumb": "img/p/p-528-s.jpg",
+   "src": "a0d040a15367",
+   "added": "2026-11-23T03:18:42.935471+00:00",
+   "status": "pendiente"
+  },
+  {
+   "id": "P-529",
+   "name": "Set de 3 esferas navideñas grandes estilo gota",
+   "cat": "navidad",
+   "price": 20,
+   "desc": "Set de 3 esferas navideñas grandes en forma de gota, con franjas brillantes y escarchadas que llaman la atención en el árbol. Vienen en tubo transparente. Disponible en celeste con plateado, o azul, rojo, blanco y plateado; elige el color al agregarlo al carrito.",
+   "feats": [
+    "3 esferas grandes en forma de gota",
+    "Franjas brillantes y escarchadas",
+    "Vienen en tubo transparente",
+    "Celeste o azul con rojo, a elegir"
+   ],
+   "imgs": [
+    "img/p/p-529-0.jpg",
+    "img/p/p-529-1.jpg"
+   ],
+   "thumb": "img/p/p-529-s.jpg",
+   "src": "6b5dc95a20aa",
+   "added": "2026-11-23T03:18:42.935471+00:00",
+   "status": "pendiente",
+   "opciones": [
+    {
+     "nombre": "Color",
+     "valores": [
+      "Celeste y plateado",
+      "Azul rojo blanco y plateado"
+     ],
+     "fotos": [
+      0,
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "id": "P-530",
+   "name": "Set de 27 esferas navideñas surtidas de 8 cm",
+   "cat": "navidad",
+   "price": 18,
+   "desc": "Set de 27 esferas navideñas de 8 cm cada una, con diferentes diseños, texturas y acabados: escarchadas, con relieve, rayadas y brillantes. Vienen en caja transparente lista para guardar. Disponible en rojo con dorado o en azul con plateado; elige el color al agregarlo al carrito.",
+   "feats": [
+    "27 esferas de 8 cm",
+    "Diseños y texturas variadas",
+    "Caja transparente para guardar",
+    "Rojo y dorado o azul y plateado, a elegir"
+   ],
+   "imgs": [
+    "img/p/p-530-0.jpg",
+    "img/p/p-530-1.jpg",
+    "img/p/p-530-2.jpg"
+   ],
+   "thumb": "img/p/p-530-s.jpg",
+   "src": "d1cd45ed02e3",
+   "added": "2026-11-23T03:18:42.935471+00:00",
+   "status": "pendiente",
+   "opciones": [
+    {
+     "nombre": "Color",
+     "valores": [
+      "Rojo y dorado",
+      "Azul y plateado"
+     ],
+     "fotos": [
+      0,
+      2
+     ]
+    }
+   ]
+  },
+  {
+   "id": "P-531",
+   "name": "Set de 50 esferas navideñas de 3, 4 y 6 cm",
+   "cat": "navidad",
+   "price": 15,
+   "desc": "Set de 50 esferas navideñas pequeñas de 3, 4 y 6 cm, en diferentes diseños, texturas y acabados para llenar el árbol de color. Vienen en caja transparente con asa. Disponible en plateado o en dorado con rojo; elige el color al agregarlo al carrito.",
+   "feats": [
+    "50 esferas por caja",
+    "Tamaños de 3, 4 y 6 cm",
+    "Caja transparente con asa",
+    "Plateado o dorado con rojo, a elegir"
+   ],
+   "imgs": [
+    "img/p/p-531-0.jpg",
+    "img/p/p-531-1.jpg"
+   ],
+   "thumb": "img/p/p-531-s.jpg",
+   "src": "5e2ded022320",
+   "added": "2026-11-23T03:18:42.935471+00:00",
+   "status": "pendiente",
+   "opciones": [
+    {
+     "nombre": "Color",
+     "valores": [
+      "Plateado",
+      "Dorado y rojo"
+     ],
+     "fotos": [
+      0,
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "id": "P-532",
+   "name": "Vela navideña en vaso de vidrio con caja de regalo",
+   "cat": "navidad",
+   "price": 14,
+   "desc": "Vela navideña decorativa en vaso de vidrio, con su caja de regalo a juego con asas. Perfecta para decorar la casa en Navidad o para regalar a alguien especial. Hay dos diseños: Cascanueces (vaso rojo con caja roja de Feliz Navidad) y Papá Noel (caja azul); elige el diseño al agregarlo al carrito.",
+   "feats": [
+    "Vela en vaso de vidrio decorado",
+    "Incluye caja de regalo con asas",
+    "Lista para regalar",
+    "Cascanueces o Papá Noel, a elegir"
+   ],
+   "imgs": [
+    "img/p/p-532-0.jpg",
+    "img/p/p-532-1.jpg"
+   ],
+   "thumb": "img/p/p-532-s.jpg",
+   "src": "72a3ea319a10",
+   "added": "2026-11-23T03:18:42.935471+00:00",
+   "status": "pendiente",
+   "opciones": [
+    {
+     "nombre": "Diseño",
+     "valores": [
+      "Cascanueces",
+      "Papá Noel"
+     ],
+     "fotos": [
+      0,
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "id": "P-533",
+   "name": "Set de 3 toallas de algodón",
+   "cat": "hogar",
+   "price": 18,
+   "desc": "Set de 3 toallas llanas 100 % algodón de 600 gramos, suaves al tacto y muy absorbentes. Incluye toalla de rostro de 40 x 70 cm, toalla mediana de 50 x 100 cm y toalla grande de 70 x 140 cm. Color según disponibilidad.",
+   "feats": [
+    "3 toallas: 40 x 70, 50 x 100 y 70 x 140 cm",
+    "100 % algodón, 600 gramos",
+    "Suaves y absorbentes",
+    "Color según disponibilidad"
+   ],
+   "imgs": [
+    "img/p/p-533-0.jpg"
+   ],
+   "thumb": "img/p/p-533-s.jpg",
+   "src": "1957fc59a5b4",
+   "added": "2026-11-23T03:18:42.935471+00:00",
+   "status": "pendiente"
+  },
+  {
+   "id": "P-534",
+   "name": "Extensión de 5 m con 10 bombillos LED de luz cálida",
+   "cat": "hogar",
+   "price": 11,
+   "desc": "Extensión decorativa de 5 metros con 10 bombillos LED transparentes de luz cálida y enchufe. Ideal para jardín, patio, terraza, balcón o para decorar interiores en Navidad y reuniones. Conexión eléctrica segura y resistente.",
+   "feats": [
+    "5 metros de largo",
+    "10 bombillos LED incluidos",
+    "Luz cálida acogedora",
+    "Para interiores y exteriores"
+   ],
+   "imgs": [
+    "img/p/p-534-0.jpg",
+    "img/p/p-534-1.jpg",
+    "img/p/p-534-2.jpg"
+   ],
+   "thumb": "img/p/p-534-s.jpg",
+   "src": "2ea6275734b2",
+   "added": "2026-11-23T03:18:42.935471+00:00",
+   "status": "pendiente"
+  },
+  {
+   "id": "P-535",
+   "name": "Tetera esmaltada vintage de 2 litros",
+   "cat": "cocina",
+   "price": 23,
+   "desc": "Tetera de metal esmaltado (enlozado) de estilo vintage, con capacidad de 2 litros. Sirve para té, café y para hervir agua en la cocina, y también decora. Tiene asa con agarradera y perilla dorada en la tapa. Disponible en diseño floreado, blanco con negro o turquesa; elige el diseño al agregarlo al carrito.",
+   "feats": [
+    "Capacidad de 2 litros",
+    "Metal esmaltado, resistente",
+    "Para té, café y hervir agua",
+    "Floreado, blanco y negro o turquesa, a elegir"
+   ],
+   "imgs": [
+    "img/p/p-535-0.jpg",
+    "img/p/p-535-1.jpg",
+    "img/p/p-535-2.jpg",
+    "img/p/p-535-3.jpg"
+   ],
+   "thumb": "img/p/p-535-s.jpg",
+   "src": "07a57641b801",
+   "added": "2026-11-23T03:18:42.935471+00:00",
+   "status": "pendiente",
+   "opciones": [
+    {
+     "nombre": "Diseño",
+     "valores": [
+      "Floreado",
+      "Blanco y negro",
+      "Turquesa"
+     ],
+     "fotos": [
+      0,
+      1,
+      3
+     ]
+    }
+   ]
+  },
+  {
+   "id": "P-536",
+   "name": "Colcha de borrego doble uso",
+   "cat": "hogar",
+   "price": 18,
+   "desc": "Colcha acolchada y suavecita con diseño en relieve por un lado y reverso de borrego por el otro, para usarla de las dos formas. Abriga en las noches frías y lluviosas. Diseño y color según disponibilidad.",
+   "feats": [
+    "Doble uso: diseño y borrego",
+    "Acolchada y suave",
+    "Abrigada para noches frías",
+    "Diseño y color según disponibilidad"
+   ],
+   "imgs": [
+    "img/p/p-536-0.jpg",
+    "img/p/p-536-1.jpg",
+    "img/p/p-536-2.jpg"
+   ],
+   "thumb": "img/p/p-536-s.jpg",
+   "src": "02d2c7da3e4a",
+   "added": "2026-11-23T03:18:42.935471+00:00",
+   "status": "pendiente"
+  },
+  {
+   "id": "P-537",
+   "name": "Toalla con relieve de 137 x 70 cm",
+   "cat": "hogar",
+   "price": 4,
+   "desc": "Toalla con textura en relieve, suave, absorbente y de secado rápido. Mide 137 x 70 cm, un tamaño amplio para el baño. Disponible en rosado, blanco, gris y azul; elige el color al agregarlo al carrito.",
+   "feats": [
+    "Medida: 137 x 70 cm",
+    "Textura en relieve suave",
+    "Absorbente y seca rápido",
+    "Rosado, blanco, gris o azul, a elegir"
+   ],
+   "imgs": [
+    "img/p/p-537-0.jpg",
+    "img/p/p-537-1.jpg"
+   ],
+   "thumb": "img/p/p-537-s.jpg",
+   "src": "bde4392ae70c",
+   "added": "2026-11-23T03:18:42.935471+00:00",
+   "status": "pendiente",
+   "opciones": [
+    {
+     "nombre": "Color",
+     "valores": [
+      "Rosado",
+      "Blanco",
+      "Gris",
+      "Azul"
+     ],
+     "fotos": [
+      null,
+      0,
+      1,
+      null
+     ]
+    }
+   ]
+  },
+  {
+   "id": "P-538",
+   "name": "Escalera plegable de 4 peldaños, negra",
+   "cat": "hogar",
+   "price": 27,
+   "desc": "Escalera plegable de 4 peldaños amplios con superficie estriada antideslizante, práctica para el hogar o el negocio. Se pliega para guardarla en poco espacio. Disponible solo en color negro.",
+   "feats": [
+    "Disponible solo en color negro",
+    "4 peldaños amplios y estriados",
+    "Plegable, ocupa poco espacio",
+    "Para casa o negocio"
+   ],
+   "imgs": [
+    "img/p/p-538-0.jpg",
+    "img/p/p-538-1.jpg"
+   ],
+   "thumb": "img/p/p-538-s.jpg",
+   "src": "a8a29321a428",
+   "added": "2026-11-23T03:18:42.935471+00:00",
+   "status": "pendiente"
+  },
+  {
+   "id": "P-539",
+   "name": "Dispensador de bebidas tipo globo terráqueo",
+   "cat": "cocina",
+   "price": 18,
+   "desc": "Dispensador de bebidas con diseño de globo terráqueo: recipiente transparente para ver el contenido, grifo para servir fácilmente y base decorativa plateada. Ideal para jugos, cócteles y bebidas en reuniones y fiestas navideñas.",
+   "feats": [
+    "Diseño de globo terráqueo",
+    "Recipiente transparente",
+    "Grifo para servir",
+    "Base plateada decorativa"
+   ],
+   "imgs": [
+    "img/p/p-539-0.jpg",
+    "img/p/p-539-1.jpg",
+    "img/p/p-539-2.jpg"
+   ],
+   "thumb": "img/p/p-539-s.jpg",
+   "src": "bf6a1be6f012",
+   "added": "2026-11-23T03:18:42.935471+00:00",
+   "status": "pendiente"
+  },
+  {
+   "id": "P-540",
+   "name": "Silla redonda plegable acolchada",
+   "cat": "hogar",
+   "price": 28,
+   "desc": "Silla redonda tipo platillo con cojín acolchado súper suave y estructura de metal firme. Se pliega fácil para guardarla o llevarla a donde quieras. Ideal para leer, descansar o ver series. Color según disponibilidad.",
+   "feats": [
+    "Cojín acolchado muy suave",
+    "Estructura firme y resistente",
+    "Plegable y fácil de llevar",
+    "Color según disponibilidad"
+   ],
+   "imgs": [
+    "img/p/p-540-0.jpg",
+    "img/p/p-540-1.jpg"
+   ],
+   "thumb": "img/p/p-540-s.jpg",
+   "src": "3225d2374687",
+   "added": "2026-11-23T03:18:42.935471+00:00",
+   "status": "pendiente"
+  },
+  {
+   "id": "P-541",
+   "name": "Estante de 3 niveles con ventosas",
+   "cat": "hogar",
+   "price": 14,
+   "desc": "Estante de pared de 3 bandejas que se fija con ventosas, sin taladrar. Las bandejas se pliegan y el estante queda plano cuando no lo usas. Mide 48 cm de alto y 23 cm de ancho; cada bandeja es de 20 x 16 cm, con 18 cm y 13 cm de separación. Sirve en cocina, baño o lavandería.",
+   "feats": [
+    "Se fija con ventosas, sin taladrar",
+    "3 bandejas plegables",
+    "48 cm de alto y 23 cm de ancho",
+    "Para cocina, baño o lavandería"
+   ],
+   "imgs": [
+    "img/p/p-541-0.jpg",
+    "img/p/p-541-1.jpg",
+    "img/p/p-541-2.jpg"
+   ],
+   "thumb": "img/p/p-541-s.jpg",
+   "src": "075db9a04d7f",
+   "added": "2026-11-23T03:18:42.935471+00:00",
+   "status": "pendiente"
+  },
+  {
    "id": "P-512",
    "name": "Tendedero de ropa de 3 niveles con ruedas",
    "cat": "hogar",
@@ -12483,5 +12910,5 @@
    }
   }
  ],
- "updated": "2026-11-20T03:14:56.532980+00:00"
+ "updated": "2026-11-23T03:18:42.935471+00:00"
 }
