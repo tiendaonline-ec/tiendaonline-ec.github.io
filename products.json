@@ -1,6 +1,695 @@
 {
  "products": [
   {
+   "id": "P-542",
+   "name": "Cascada de luces navideñas con estrella, 1,80 m",
+   "cat": "navidad",
+   "price": 12,
+   "desc": "Cascada de luces LED de luz blanca con una estrella brillante en la punta y tiras de luces que caen formando un árbol de 1,80 m de largo. Se conecta directo a la corriente y tiene interruptor de encendido y apagado. Ideal para ventanas, paredes, salones y la decoración navideña de la casa o el negocio.",
+   "feats": [
+    "1,80 m de largo",
+    "Estrella luminosa en la punta",
+    "Luz blanca LED",
+    "Conexión a la corriente con interruptor"
+   ],
+   "imgs": [
+    "img/p/p-542-0.jpg",
+    "img/p/p-542-1.jpg",
+    "img/p/p-542-2.jpg"
+   ],
+   "thumb": "img/p/p-542-s.jpg",
+   "src": "7dd359e0fc76",
+   "added": "2026-11-25T20:41:10.706664+00:00",
+   "status": "pendiente"
+  },
+  {
+   "id": "P-543",
+   "name": "Guirnalda de aros y esferas con luces LED, 3 m",
+   "cat": "navidad",
+   "price": 9,
+   "desc": "Guirnalda de luces LED de 3 m con aros y esferas que cuelgan como cortina, con figuras navideñas dentro de las esferas. Hay dos opciones: multicolor, alegre y festiva, o luz cálida, más acogedora; elige la que prefieras al agregarla al carrito. Ideal para ventanas, paredes y el árbol.",
+   "feats": [
+    "3 m de largo",
+    "Aros y esferas con figuras navideñas",
+    "Luces LED brillantes de bajo consumo",
+    "Multicolor o luz cálida, a elegir"
+   ],
+   "imgs": [
+    "img/p/p-543-0.jpg",
+    "img/p/p-543-1.jpg",
+    "img/p/p-543-2.jpg",
+    "img/p/p-543-3.jpg"
+   ],
+   "thumb": "img/p/p-543-s.jpg",
+   "src": "af4e669afd42",
+   "added": "2026-11-25T20:41:10.706664+00:00",
+   "status": "pendiente",
+   "opciones": [
+    {
+     "nombre": "Color",
+     "valores": [
+      "Multicolor",
+      "Luz cálida"
+     ],
+     "fotos": [
+      0,
+      2
+     ]
+    }
+   ]
+  },
+  {
+   "id": "P-544",
+   "name": "Adorno navideño colgante con campanita",
+   "cat": "navidad",
+   "price": 2,
+   "desc": "Adorno navideño hecho a mano en tela suave, con una campanita que suena al moverlo y cinta para colgarlo en el árbol, la puerta o la pared. Hay tres modelos: reno, muñeco de nieve y Papá Noel; elige el modelo al agregarlo al carrito. El precio es por unidad. Un detalle lindo para decorar o regalar.",
+   "feats": [
+    "Precio por unidad",
+    "Hecho a mano en tela suave",
+    "Con campanita que suena",
+    "Reno, muñeco de nieve o Papá Noel, a elegir"
+   ],
+   "imgs": [
+    "img/p/p-544-0.jpg",
+    "img/p/p-544-1.jpg",
+    "img/p/p-544-2.jpg",
+    "img/p/p-544-3.jpg"
+   ],
+   "thumb": "img/p/p-544-s.jpg",
+   "src": "cac1f5071bb9",
+   "added": "2026-11-25T20:41:10.706664+00:00",
+   "status": "pendiente",
+   "opciones": [
+    {
+     "nombre": "Modelo",
+     "valores": [
+      "Reno",
+      "Muñeco de nieve",
+      "Papá Noel"
+     ],
+     "fotos": [
+      3,
+      1,
+      2
+     ]
+    }
+   ]
+  },
+  {
+   "id": "P-545",
+   "name": "Muñeco navideño expandible de hasta 45 cm",
+   "cat": "navidad",
+   "price": 11,
+   "desc": "Muñeco navideño de peluche en tonos rosados, con piernas largas que se encogen o se estiran hasta 45 cm de alto, para ponerlo sentado o de pie. Hay dos modelos, Papá Noel y muñeco de nieve; elige el modelo al agregarlo al carrito. El precio es por unidad. Ideal para decorar repisas, mesas o el pie del árbol, o para regalar.",
+   "feats": [
+    "Precio por unidad",
+    "Se estira hasta 45 cm de alto",
+    "Peluche suave en tonos rosados",
+    "Papá Noel o muñeco de nieve, a elegir"
+   ],
+   "imgs": [
+    "img/p/p-545-0.jpg",
+    "img/p/p-545-1.jpg",
+    "img/p/p-545-2.jpg"
+   ],
+   "thumb": "img/p/p-545-s.jpg",
+   "src": "225fff4cfcbf",
+   "added": "2026-11-25T20:41:10.706664+00:00",
+   "status": "pendiente",
+   "opciones": [
+    {
+     "nombre": "Modelo",
+     "valores": [
+      "Papá Noel",
+      "Muñeco de nieve"
+     ],
+     "fotos": [
+      0,
+      2
+     ]
+    }
+   ]
+  },
+  {
+   "id": "P-546",
+   "name": "Set de 2 alfombras navideñas para cocina, rojas",
+   "cat": "navidad",
+   "price": 9,
+   "desc": "Set de 2 alfombras de cocina, una larga y una corta, en rojo con diseños navideños, copos de nieve y personajes de Navidad. Son antideslizantes, prácticas y fáciles de limpiar, y le dan un toque festivo a la cocina. Diseño según disponibilidad.",
+   "feats": [
+    "2 alfombras: una larga y una corta",
+    "Rojas con diseños navideños",
+    "Antideslizantes",
+    "Fáciles de limpiar"
+   ],
+   "imgs": [
+    "img/p/p-546-0.jpg"
+   ],
+   "thumb": "img/p/p-546-s.jpg",
+   "src": "4b7487e558a9",
+   "added": "2026-11-25T20:41:10.706664+00:00",
+   "status": "pendiente"
+  },
+  {
+   "id": "P-547",
+   "name": "Juego de 2 cortinas navideñas de 140 x 230 cm",
+   "cat": "navidad",
+   "price": 18,
+   "desc": "Juego de 2 cortinas navideñas de tela de poliéster, de 140 x 230 cm aproximadamente, con diseños de Papá Noel, árboles y motivos de Navidad. Transforman las ventanas de la sala, el dormitorio o el negocio. Diseño surtido, según disponibilidad.",
+   "feats": [
+    "Juego de 2 piezas",
+    "Medida aproximada: 140 x 230 cm",
+    "100 % poliéster",
+    "Diseño surtido, según disponibilidad"
+   ],
+   "imgs": [
+    "img/p/p-547-0.jpg"
+   ],
+   "thumb": "img/p/p-547-s.jpg",
+   "src": "a4d98239d007",
+   "added": "2026-11-25T20:41:10.706664+00:00",
+   "status": "pendiente"
+  },
+  {
+   "id": "P-548",
+   "name": "Lámpara LED de emergencia recargable USB-C",
+   "cat": "hogar",
+   "price": 6,
+   "desc": "Lámpara LED tipo tubo recargable por USB tipo C, con 4 modos de luz: intensa, media, SOS y luces de advertencia rojas y azules. Tiene gancho integrado para colgarla donde quieras y es compacta y fácil de llevar. Muy útil en los cortes de luz de la temporada de lluvias, en el carro, el taller, campamentos o paseos.",
+   "feats": [
+    "4 modos de luz",
+    "Recargable por USB tipo C, incluye cable",
+    "Gancho integrado para colgar",
+    "Ideal para cortes de luz"
+   ],
+   "imgs": [
+    "img/p/p-548-0.jpg",
+    "img/p/p-548-1.jpg",
+    "img/p/p-548-2.jpg"
+   ],
+   "thumb": "img/p/p-548-s.jpg",
+   "src": "bb721b6c1abd",
+   "added": "2026-11-25T20:41:10.706664+00:00",
+   "status": "pendiente"
+  },
+  {
+   "id": "P-549",
+   "name": "Forro impermeable para lavadora automática",
+   "cat": "hogar",
+   "price": 12,
+   "desc": "Forro protector para lavadora automática, hecho en tela impermeable resistente al sol y al agua, con estampado de flores. Protege la lavadora del polvo, la lluvia y el sol si está en el patio o en la lavandería. Para lavadoras de 12 a 16 kg de capacidad. Estampado según disponibilidad.",
+   "feats": [
+    "Tela impermeable",
+    "Resiste el sol y el agua",
+    "Para lavadoras de 12 a 16 kg",
+    "Estampado según disponibilidad"
+   ],
+   "imgs": [
+    "img/p/p-549-0.jpg"
+   ],
+   "thumb": "img/p/p-549-s.jpg",
+   "src": "3e24829fd959",
+   "added": "2026-11-25T20:41:10.706664+00:00",
+   "status": "pendiente"
+  },
+  {
+   "id": "P-550",
+   "name": "Juego de 2 cortinas con diseño, 3 x 2,30 m",
+   "cat": "hogar",
+   "price": 10,
+   "desc": "Juego de 2 paneles de cortina con diseño elegante en franjas y estampado decorativo, que juntos miden 3 m de ancho por 2,30 m de largo. Son para tubo y no traen argollas. Diseño y color según disponibilidad; en las fotos hay modelos morado, café y negro con dorado.",
+   "feats": [
+    "2 paneles",
+    "3 m de ancho por 2,30 m de largo en total",
+    "Para tubo, sin argollas",
+    "Diseño según disponibilidad"
+   ],
+   "imgs": [
+    "img/p/p-550-0.jpg",
+    "img/p/p-550-1.jpg",
+    "img/p/p-550-2.jpg",
+    "img/p/p-550-3.jpg"
+   ],
+   "thumb": "img/p/p-550-s.jpg",
+   "src": "0c203013ae75",
+   "added": "2026-11-25T20:41:10.706664+00:00",
+   "status": "pendiente"
+  },
+  {
+   "id": "P-551",
+   "name": "Alfombra 3D antideslizante de 150 x 200 cm",
+   "cat": "hogar",
+   "price": 20,
+   "desc": "Alfombra grande y antideslizante con diseño 3D moderno, de 150 x 200 cm, para la sala o el dormitorio. Le da un toque elegante a tu hogar. Modelo según disponibilidad; en la foto, diseño de mármol negro y blanco con hojas doradas.",
+   "feats": [
+    "150 x 200 cm",
+    "Antideslizante",
+    "Diseño 3D moderno",
+    "Modelo según disponibilidad"
+   ],
+   "imgs": [
+    "img/p/p-551-0.jpg"
+   ],
+   "thumb": "img/p/p-551-s.jpg",
+   "src": "32c565221195",
+   "added": "2026-11-25T20:41:10.706664+00:00",
+   "status": "pendiente"
+  },
+  {
+   "id": "P-552",
+   "name": "Organizador de 8 espacios con cortina transparente",
+   "cat": "hogar",
+   "price": 16,
+   "desc": "Organizador de 2 columnas y 4 niveles (8 espacios) con estructura de metal, plástico y tela, y cortina transparente que deja ver lo que guardas. Mide 125 cm de alto, 80 cm de ancho y 28 cm de fondo. Sirve para ropa, toallas, zapatos o juguetes y es fácil de armar y limpiar. Viene en blanco o negro: elige el color al agregarlo al carrito.",
+   "feats": [
+    "8 espacios: 2 columnas x 4 niveles",
+    "125 x 80 x 28 cm",
+    "Cortina transparente",
+    "Blanco o negro, a elegir"
+   ],
+   "imgs": [
+    "img/p/p-552-0.jpg",
+    "img/p/p-552-1.jpg",
+    "img/p/p-552-2.jpg"
+   ],
+   "thumb": "img/p/p-552-s.jpg",
+   "src": "acd63ed3d50f",
+   "added": "2026-11-25T20:41:10.706664+00:00",
+   "status": "pendiente",
+   "opciones": [
+    {
+     "nombre": "Color",
+     "valores": [
+      "Blanco",
+      "Negro"
+     ],
+     "fotos": [
+      1,
+      2
+     ]
+    }
+   ]
+  },
+  {
+   "id": "P-553",
+   "name": "Máquina de coser compacta de 12 puntadas",
+   "cat": "hogar",
+   "price": 33,
+   "desc": "Máquina de coser compacta y liviana, con asa para llevarla a donde quieras, 12 tipos de puntada, velocidad ajustable y luz LED. Fácil de usar, ideal para principiantes, arreglos de ropa y manualidades. Color blanco con detalles lila.",
+   "feats": [
+    "12 tipos de puntada",
+    "Velocidad ajustable",
+    "Luz LED",
+    "Compacta y liviana, con asa"
+   ],
+   "imgs": [
+    "img/p/p-553-0.jpg",
+    "img/p/p-553-1.jpg",
+    "img/p/p-553-2.jpg"
+   ],
+   "thumb": "img/p/p-553-s.jpg",
+   "src": "8effd38809ae",
+   "added": "2026-11-25T20:41:10.706664+00:00",
+   "status": "pendiente"
+  },
+  {
+   "id": "P-554",
+   "name": "Dispensador eléctrico de agua para bidón",
+   "cat": "cocina",
+   "price": 5,
+   "desc": "Bomba dispensadora de agua recargable que se coloca encima del bidón o garrafón y saca el agua con solo presionar un botón. Es compacta y se adapta a casi cualquier garrafón. Ideal para la casa, la oficina o de viaje.",
+   "feats": [
+    "Recargable",
+    "Saca el agua con un botón",
+    "Se adapta a casi cualquier garrafón",
+    "Compacta y fácil de usar"
+   ],
+   "imgs": [
+    "img/p/p-554-0.jpg",
+    "img/p/p-554-1.jpg"
+   ],
+   "thumb": "img/p/p-554-s.jpg",
+   "src": "6db1bb1d4585",
+   "added": "2026-11-25T20:41:10.706664+00:00",
+   "status": "pendiente"
+  },
+  {
+   "id": "P-555",
+   "name": "Set de cuchillos de 6 piezas en colores pastel",
+   "cat": "cocina",
+   "price": 5,
+   "desc": "Set de cocina de cerámica en colores pastel con 6 piezas: cuchillos de varios tamaños, tijera y pelador. Le dan un toque bonito a tu cocina y son una linda opción para regalar.",
+   "feats": [
+    "6 piezas",
+    "Cuchillos, tijera y pelador",
+    "Colores pastel",
+    "De cerámica"
+   ],
+   "imgs": [
+    "img/p/p-555-0.jpg",
+    "img/p/p-555-1.jpg"
+   ],
+   "thumb": "img/p/p-555-s.jpg",
+   "src": "8a980c97b21d",
+   "added": "2026-11-25T20:41:10.706664+00:00",
+   "status": "pendiente"
+  },
+  {
+   "id": "P-556",
+   "name": "Set de 6 vasos de cristal",
+   "cat": "cocina",
+   "price": 7,
+   "desc": "Set de 6 vasos de cristal transparentes con base facetada, fáciles de combinar con tu vajilla. Ideales para servir agua, jugos y refrescos en casa, o para regalar.",
+   "feats": [
+    "6 vasos",
+    "Cristal transparente",
+    "Base facetada",
+    "Para agua, jugos y refrescos"
+   ],
+   "imgs": [
+    "img/p/p-556-0.jpg",
+    "img/p/p-556-1.jpg"
+   ],
+   "thumb": "img/p/p-556-s.jpg",
+   "src": "19a304809ee4",
+   "added": "2026-11-25T20:41:10.706664+00:00",
+   "status": "pendiente"
+  },
+  {
+   "id": "P-557",
+   "name": "Bolso cruzado antirrobo con candado de combinación",
+   "cat": "moda",
+   "price": 9,
+   "desc": "Bolso cruzado de un hombro con cierre de candado de combinación, correa ajustable y compartimentos con cierre para llevar tus cosas seguras y cerca de ti. Tiene puerto USB por fuera para cargar el celular con tu power bank y su material repele el agua. Viene en negro o en gris con café: elige el color al agregarlo al carrito.",
+   "feats": [
+    "Candado de combinación",
+    "Correa ajustable",
+    "Puerto USB externo",
+    "Negro o gris con café, a elegir"
+   ],
+   "imgs": [
+    "img/p/p-557-0.jpg",
+    "img/p/p-557-1.jpg",
+    "img/p/p-557-2.jpg",
+    "img/p/p-557-3.jpg"
+   ],
+   "thumb": "img/p/p-557-s.jpg",
+   "src": "f7d7485c46e9",
+   "added": "2026-11-25T20:41:10.706664+00:00",
+   "status": "pendiente",
+   "opciones": [
+    {
+     "nombre": "Color",
+     "valores": [
+      "Negro",
+      "Gris con café"
+     ],
+     "fotos": [
+      0,
+      3
+     ]
+    }
+   ]
+  },
+  {
+   "id": "P-558",
+   "name": "Set de ligas, pinzas y moños con estuche",
+   "cat": "moda",
+   "price": 4,
+   "desc": "Set de accesorios para el cabello con ligas, mini pinzas y moños de colores, en un estuche transparente con compartimentos para tenerlos ordenados. Ideal para crear peinados bonitos para niñas. Combinación de colores según disponibilidad.",
+   "feats": [
+    "Ligas, mini pinzas y moños",
+    "Estuche transparente con compartimentos",
+    "Colores variados",
+    "Combinación según disponibilidad"
+   ],
+   "imgs": [
+    "img/p/p-558-0.jpg",
+    "img/p/p-558-1.jpg",
+    "img/p/p-558-2.jpg",
+    "img/p/p-558-3.jpg"
+   ],
+   "thumb": "img/p/p-558-s.jpg",
+   "src": "66371ed09aae",
+   "added": "2026-11-25T20:41:10.706664+00:00",
+   "status": "pendiente"
+  },
+  {
+   "id": "P-559",
+   "name": "Short deportivo tipo sauna de tiro alto, negro",
+   "cat": "deporte",
+   "price": 8,
+   "desc": "Short deportivo negro de tiro alto con forro interior térmico que favorece la sudoración durante el ejercicio. Tiene cintura alta y ajuste cómodo, y te deja moverte con facilidad en tus rutinas en casa o en el gimnasio.",
+   "feats": [
+    "Tiro alto",
+    "Forro interior térmico",
+    "Ajuste cómodo",
+    "Para ejercicio en casa o en el gimnasio"
+   ],
+   "imgs": [
+    "img/p/p-559-0.jpg",
+    "img/p/p-559-1.jpg"
+   ],
+   "thumb": "img/p/p-559-s.jpg",
+   "src": "9eb15ec7ec9e",
+   "added": "2026-11-25T20:41:10.706664+00:00",
+   "status": "pendiente"
+  },
+  {
+   "id": "P-560",
+   "name": "Short deportivo levanta cola de cintura alta",
+   "cat": "deporte",
+   "price": 3,
+   "desc": "Short deportivo de cintura alta con fruncido en la parte de atrás que realza los glúteos, en tejido con textura y diseño de contorno. Cómodo para hacer ejercicio o para el día a día. Color según disponibilidad.",
+   "feats": [
+    "Cintura alta",
+    "Fruncido trasero que realza",
+    "Tejido con textura",
+    "Color según disponibilidad"
+   ],
+   "imgs": [
+    "img/p/p-560-0.jpg",
+    "img/p/p-560-1.jpg",
+    "img/p/p-560-2.jpg",
+    "img/p/p-560-3.jpg"
+   ],
+   "thumb": "img/p/p-560-s.jpg",
+   "src": "fd7bd8b9c343",
+   "added": "2026-11-25T20:41:10.706664+00:00",
+   "status": "pendiente"
+  },
+  {
+   "id": "P-561",
+   "name": "Máquina de boxeo musical con luces y Bluetooth",
+   "cat": "deporte",
+   "price": 18,
+   "desc": "Máquina de boxeo para la pared con luces LED que se encienden al ritmo de la música: golpea los blancos iluminados para entrenar los reflejos y hacer ejercicio en casa. Se conecta al celular por Bluetooth y tiene selector de velocidad, de temas y de volumen. Mide unos 32,5 x 27,5 cm.",
+   "feats": [
+    "Luces LED que marcan dónde golpear",
+    "Música por Bluetooth",
+    "Selector de velocidad y volumen",
+    "32,5 x 27,5 cm aproximadamente"
+   ],
+   "imgs": [
+    "img/p/p-561-0.jpg",
+    "img/p/p-561-1.jpg"
+   ],
+   "thumb": "img/p/p-561-s.jpg",
+   "src": "9e1d4bd25b8b",
+   "added": "2026-11-25T20:41:10.706664+00:00",
+   "status": "pendiente"
+  },
+  {
+   "id": "P-562",
+   "name": "Pista plegable de carritos con 100 carros",
+   "cat": "juguetes",
+   "price": 42,
+   "desc": "Pista de carritos de cartón grueso y resistente: la misma caja se abre y se convierte en una pista larga con calles y estacionamientos. Trae 100 carritos de muchos diseños. Estimula la imaginación y la coordinación, y es un gran regalo de Navidad para los niños que aman los autos.",
+   "feats": [
+    "Incluye 100 carritos",
+    "La caja se convierte en pista",
+    "Cartón grueso y resistente",
+    "Ideal para regalar"
+   ],
+   "imgs": [
+    "img/p/p-562-0.jpg"
+   ],
+   "thumb": "img/p/p-562-s.jpg",
+   "src": "26aac26327ba",
+   "added": "2026-11-25T20:41:10.706664+00:00",
+   "status": "pendiente"
+  },
+  {
+   "id": "P-563",
+   "name": "Set de té de juguete con pastel desarmable",
+   "cat": "juguetes",
+   "price": 9,
+   "desc": "Juego de té de juguete con pastel que se desarma en porciones, tetera, tazas, cubiertos y dulces, para que los niños jueguen a la hora del té y compartan con sus amigos. Las imágenes son referenciales: el modelo puede variar según disponibilidad.",
+   "feats": [
+    "Pastel desarmable",
+    "Tetera, tazas y cubiertos",
+    "Accesorios de dulces",
+    "Modelo según disponibilidad"
+   ],
+   "imgs": [
+    "img/p/p-563-0.jpg"
+   ],
+   "thumb": "img/p/p-563-s.jpg",
+   "src": "a8a90cb9a905",
+   "added": "2026-11-25T20:41:10.706664+00:00",
+   "status": "pendiente"
+  },
+  {
+   "id": "P-564",
+   "name": "Set de plancha alisadora, rizador y peinetas, azul",
+   "cat": "belleza",
+   "price": 14,
+   "desc": "Kit de peinado 3 en 1 con plancha alisadora, rizador en espiral y peinetas, con placas de titanio y cerámica que dan calor uniforme y protegen el cabello. Temperatura ajustable para todo tipo de cabello. Color azul brillante.",
+   "feats": [
+    "Plancha alisadora y rizador en espiral",
+    "Placas de titanio y cerámica",
+    "Temperatura ajustable",
+    "Incluye peinetas"
+   ],
+   "imgs": [
+    "img/p/p-564-0.jpg",
+    "img/p/p-564-1.jpg"
+   ],
+   "thumb": "img/p/p-564-s.jpg",
+   "src": "03c081248c06",
+   "added": "2026-11-25T20:41:10.706664+00:00",
+   "status": "pendiente"
+  },
+  {
+   "id": "P-565",
+   "name": "Organizador de cosméticos con puertas translúcidas",
+   "cat": "belleza",
+   "price": 17,
+   "desc": "Organizador de cosméticos de 3 niveles con compartimentos para cremas, labiales y brochas, puertas translúcidas que dejan ver todo y manijas doradas. Arriba tiene un organizador de varios espacios. Mide 55 cm de alto, 23 cm de ancho y 18 cm de fondo, es de plástico resistente y se ve hermoso en el tocador.",
+   "feats": [
+    "3 niveles con puertas translúcidas",
+    "Organizador superior de varios espacios",
+    "55 x 23 x 18 cm",
+    "Plástico resistente"
+   ],
+   "imgs": [
+    "img/p/p-565-0.jpg",
+    "img/p/p-565-1.jpg",
+    "img/p/p-565-2.jpg",
+    "img/p/p-565-3.jpg"
+   ],
+   "thumb": "img/p/p-565-s.jpg",
+   "src": "2073c4520624",
+   "added": "2026-11-25T20:41:10.706664+00:00",
+   "status": "pendiente"
+  },
+  {
+   "id": "P-566",
+   "name": "Organizador giratorio de brochas con tapa",
+   "cat": "belleza",
+   "price": 7,
+   "desc": "Organizador para brochas y labiales que gira 360°, con varios compartimentos y tapa transparente que protege del polvo. Tiene pies antideslizantes y mide 24 cm de alto por 12 cm de ancho. Compacto, elegante y fácil de limpiar.",
+   "feats": [
+    "Gira 360°",
+    "Tapa transparente contra el polvo",
+    "24 cm de alto x 12 cm de ancho",
+    "Pies antideslizantes"
+   ],
+   "imgs": [
+    "img/p/p-566-0.jpg",
+    "img/p/p-566-1.jpg",
+    "img/p/p-566-2.jpg"
+   ],
+   "thumb": "img/p/p-566-s.jpg",
+   "src": "11b938c8b852",
+   "added": "2026-11-25T20:41:10.706664+00:00",
+   "status": "pendiente"
+  },
+  {
+   "id": "P-567",
+   "name": "Mini lámpara UV LED para uñas, rosada",
+   "cat": "belleza",
+   "price": 5,
+   "desc": "Lámpara mini y portátil para secar las uñas, con doble luz LED UV de 6 W que seca rápido todo tipo de esmalte. Fácil de usar, ideal para hacerte la manicura en casa. Color rosado.",
+   "feats": [
+    "Doble luz LED UV",
+    "6 W",
+    "Portátil y compacta",
+    "Seca todo tipo de esmalte"
+   ],
+   "imgs": [
+    "img/p/p-567-0.jpg"
+   ],
+   "thumb": "img/p/p-567-s.jpg",
+   "src": "70d4efe05acb",
+   "added": "2026-11-25T20:41:10.706664+00:00",
+   "status": "pendiente"
+  },
+  {
+   "id": "P-568",
+   "name": "Gorro de satín para dormir",
+   "cat": "belleza",
+   "price": 3,
+   "desc": "Gorro de satín suave para dormir que protege el cabello rizado o liso, con banda elástica cómoda. También sirve para el día a día o el deporte. Color según disponibilidad; no hay en negro.",
+   "feats": [
+    "Satín suave",
+    "Para cabello rizado o liso",
+    "Para dormir o el día a día",
+    "Color según disponibilidad"
+   ],
+   "imgs": [
+    "img/p/p-568-0.jpg",
+    "img/p/p-568-1.jpg",
+    "img/p/p-568-2.jpg",
+    "img/p/p-568-3.jpg"
+   ],
+   "thumb": "img/p/p-568-s.jpg",
+   "src": "77bd7e5d8948",
+   "added": "2026-11-25T20:41:10.706664+00:00",
+   "status": "pendiente"
+  },
+  {
+   "id": "P-569",
+   "name": "Masajeador corporal eléctrico con 4 accesorios",
+   "cat": "cuidado",
+   "price": 14,
+   "desc": "Masajeador eléctrico de mano para masajear cualquier parte del cuerpo, con 4 accesorios, velocidad ajustable y motor de 2500 rpm. Es silencioso, con menos de 55 dB, y liviano, ideal para usar en casa o de viaje.",
+   "feats": [
+    "4 accesorios",
+    "Velocidad ajustable",
+    "2500 rpm",
+    "Silencioso, menos de 55 dB"
+   ],
+   "imgs": [
+    "img/p/p-569-0.jpg"
+   ],
+   "thumb": "img/p/p-569-s.jpg",
+   "src": "3e5067c1dbb5",
+   "added": "2026-11-25T20:41:10.706664+00:00",
+   "status": "pendiente"
+  },
+  {
+   "id": "P-570",
+   "name": "Tira LED neón de 5 m con control y app",
+   "cat": "tecno",
+   "price": 14,
+   "desc": "Tira de luces LED tipo neón flexible de 5 metros, con colores RGB y efectos multicolor. Se maneja con el control remoto o desde una aplicación en el celular. Ideal para decorar el cuarto, la sala o el área de juegos.",
+   "feats": [
+    "5 m de largo",
+    "Colores RGB y efectos",
+    "Control remoto y app en el celular",
+    "Neón flexible"
+   ],
+   "imgs": [
+    "img/p/p-570-0.jpg"
+   ],
+   "thumb": "img/p/p-570-s.jpg",
+   "src": "91ccca3eea3a",
+   "added": "2026-11-25T20:41:10.706664+00:00",
+   "status": "pendiente"
+  },
+  {
    "id": "P-527",
    "name": "Set navideño completo de 106 piezas con estrella",
    "cat": "navidad",
@@ -12910,5 +13599,5 @@
    }
   }
  ],
- "updated": "2026-11-23T03:18:42.935471+00:00"
+ "updated": "2026-11-25T20:41:10.706664+00:00"
 }
