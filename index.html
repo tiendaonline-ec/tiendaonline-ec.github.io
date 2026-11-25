@@ -408,6 +408,8 @@ body.rv-ped #tools,body.rv-ped .sec-head,body.rv-ped #grid,body.rv-ped #empty{di
 .rv-prices{margin:0;display:flex;flex-wrap:wrap;gap:4px 10px;font-size:13px;color:var(--muted);font-variant-numeric:tabular-nums}
 .rv-prices b{color:var(--fg);font-weight:700}
 .rv-gain{color:var(--ok);font-weight:600}
+.rv-boom{display:inline-flex;align-items:center;gap:4px;padding:2px 8px;white-space:nowrap;border-radius:9px;background:var(--ok-soft);color:var(--boom-ink);font-weight:700}
+.rv-boom svg{width:13px;height:13px}
 .pd-costo{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:8px;margin:12px 0 0;padding:12px;border-radius:18px;background:var(--panel-in);box-shadow:0 0 0 .5px var(--hair)}
 .pd-costo div{min-width:0}
 .pd-costo dt{font-size:12px;color:var(--muted);line-height:1.25}
@@ -2167,7 +2169,7 @@ async function loadCatalog() {
   const estP = LIVE ? api({ action: 'estados' }).then(r => (r && r.ok && r.estados) || null, () => null) : Promise.resolve(null);
   const guardado = LIVE ? store.get('vt-est', null) : null;
   if (guardado && typeof guardado === 'object') EST = guardado;
-  const ordenar = () => { if (REVIEW) ALL.sort((a, b) => (RV_ORDER[eff(a)] ?? 9) - (RV_ORDER[eff(b)] ?? 9)); };
+  const ordenar = () => { if (REVIEW) ALL.sort((a, b) => ((RV_ORDER[eff(a)] ?? 9) - (RV_ORDER[eff(b)] ?? 9)) || (esBoom(a) - esBoom(b))); };
   const firma = () => ALL.map(p => p.id + eff(p)).join();
   try {
     const res = await fetch('products.json', { cache: 'no-cache' });
@@ -2531,9 +2533,12 @@ async function loadCostos(llave) {
   } catch (e) {}
 }
 const ganancia = p => { const c = COSTO[p.id]; return c ? { c, g: r2(p.price - c), pc: Math.round((p.price - c) / c * 100) } : null; };
-const rvPrices = p => { const x = ganancia(p);
+const refBoom = p => (p.pedir && p.pedir.ref) || 'catálogo';
+const rvPrices = p => { if (esBoom(p)) return `<p class="rv-prices"><span class="rv-boom">${ic('spark')}Revista Boom</span><span>${esc(refBoom(p).replace('página', 'pág.'))} del PDF</span><span>Precio de catálogo <b>${money(p.price)}</b>${p.antes ? ` <s>${money(p.antes)}</s>` : ''}</span><span class="rv-gain">Ganancia incluida</span></p>`;
+  const x = ganancia(p);
   return `<p class="rv-prices"><span>Telegram <b>${x ? money(x.c) : (costoListo ? 'sin dato' : '…')}</b></span><span>Tienda <b>${money(p.price)}</b></span>${x ? `<span class="rv-gain">Ganas ${money(x.g)} (${x.pc}%)</span>` : ''}</p>`; };
-const costoBox = p => { const x = p && ganancia(p);
+const costoBox = p => { if (p && esBoom(p)) return `<dl class="pd-costo" id="pdCosto"><div><dt>Sale de</dt><dd>Revista Boom C12 (PDF), ${esc(refBoom(p))}</dd></div><div><dt>Precio de catálogo</dt><dd>${money(p.price)}</dd></div><div><dt>Ganancia</dt><dd>Incluida en el precio</dd></div></dl>`;
+  const x = p && ganancia(p);
   return `<dl class="pd-costo" id="pdCosto"><div><dt>Precio en Telegram</dt><dd>${x ? money(x.c) : (costoListo ? 'Sin dato' : 'Cargando…')}</dd></div><div><dt>Precio en la tienda</dt><dd>${p ? money(p.price) : ''}</dd></div><div><dt>Ganancia</dt><dd>${x ? `${money(x.g)} <small>(${x.pc}%)</small>` : '…'}</dd></div></dl>`; };
 function openPin(err) {
   openSheet('pin', 'PIN de dueño',
