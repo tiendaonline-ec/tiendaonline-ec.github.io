@@ -1,6 +1,304 @@
 {
  "products": [
   {
+   "id": "P-571",
+   "name": "Papá Noel decorativo de 40 cm",
+   "cat": "navidad",
+   "price": 15,
+   "desc": "Figura decorativa de Papá Noel de 40 cm de alto, con barba blanca, lentes y accesorios navideños como saco, ramas y frutos. Ideal para decorar mesas, repisas, la entrada o junto al árbol. Hay dos modelos con diferente vestuario; el modelo es según disponibilidad.",
+   "feats": [
+    "Altura: 40 cm",
+    "Barba blanca, lentes y accesorios navideños",
+    "Para mesas, repisas o junto al árbol",
+    "Modelo según disponibilidad"
+   ],
+   "imgs": [
+    "img/p/p-571-0.jpg",
+    "img/p/p-571-1.jpg",
+    "img/p/p-571-2.jpg"
+   ],
+   "thumb": "img/p/p-571-s.jpg",
+   "src": "53210939f2df",
+   "added": "2026-11-27T03:18:11.356346+00:00",
+   "status": "pendiente"
+  },
+  {
+   "id": "P-572",
+   "name": "Mantel navideño para mesa de 4 sillas con renos",
+   "cat": "navidad",
+   "price": 6,
+   "desc": "Mantel navideño para mesas de 4 sillas, con diseño de renitos, estrellas y esferas sobre fondo blanco y borde rojo ondulado. Fácil de colocar y lleno de color para la cena de Navidad.",
+   "feats": [
+    "Para mesas de 4 sillas",
+    "Diseño de renos y estrellas",
+    "Borde rojo ondulado",
+    "Fácil de colocar"
+   ],
+   "imgs": [
+    "img/p/p-572-0.jpg",
+    "img/p/p-572-1.jpg"
+   ],
+   "thumb": "img/p/p-572-s.jpg",
+   "src": "db82aabd8da3",
+   "added": "2026-11-27T03:18:11.356346+00:00",
+   "status": "pendiente"
+  },
+  {
+   "id": "P-573",
+   "name": "Set de baño de 4 piezas con dispensador",
+   "cat": "hogar",
+   "price": 10,
+   "desc": "Set de baño de 4 piezas: dispensador de jabón con bomba plateada, porta cepillos, vaso y jabonera. El porta cepillos mide unos 8 cm de diámetro y 11 cm de alto, y la jabonera 14 x 9 cm. Diseño moderno, fácil de limpiar y resistente al uso diario. Disponible en negro, beige y gris: elige el color al agregarlo al carrito.",
+   "feats": [
+    "Dispensador, porta cepillos, vaso y jabonera",
+    "Porta cepillos de 8 x 11 cm, jabonera de 14 x 9 cm",
+    "Fácil de limpiar",
+    "Negro, beige o gris, a elegir"
+   ],
+   "imgs": [
+    "img/p/p-573-0.jpg",
+    "img/p/p-573-1.jpg",
+    "img/p/p-573-2.jpg",
+    "img/p/p-573-3.jpg"
+   ],
+   "thumb": "img/p/p-573-s.jpg",
+   "src": "37bfa882a8e9",
+   "added": "2026-11-27T03:18:11.356346+00:00",
+   "status": "pendiente",
+   "opciones": [
+    {
+     "nombre": "Color",
+     "valores": [
+      "Negro",
+      "Beige",
+      "Gris"
+     ],
+     "fotos": [
+      0,
+      2,
+      3
+     ]
+    }
+   ]
+  },
+  {
+   "id": "P-574",
+   "name": "Zapatera metálica de 4 niveles con bandeja superior",
+   "cat": "hogar",
+   "price": 13,
+   "desc": "Zapatera moderna de estructura metálica negra con 4 niveles abiertos para el calzado y una bandeja superior para bolsos y accesorios. Según la foto de medidas, tiene 21 cm de fondo, entre 60 y 80 cm de ancho y entre 62 y 78,5 cm de alto. Ideal para la entrada de la casa o el dormitorio.",
+   "feats": [
+    "4 niveles para zapatos",
+    "Bandeja superior para bolsos y accesorios",
+    "Estructura metálica negra",
+    "21 cm de fondo"
+   ],
+   "imgs": [
+    "img/p/p-574-0.jpg",
+    "img/p/p-574-1.jpg",
+    "img/p/p-574-2.jpg",
+    "img/p/p-574-3.jpg"
+   ],
+   "thumb": "img/p/p-574-s.jpg",
+   "src": "206796582d7c",
+   "added": "2026-11-27T03:18:11.356346+00:00",
+   "status": "pendiente"
+  },
+  {
+   "id": "P-575",
+   "name": "Ruleta de shots con 16 vasitos",
+   "cat": "otros",
+   "price": 16,
+   "desc": "Juego de ruleta giratoria con bolita para reuniones con amigos. La base circular negra tiene espacios para 16 vasitos de vidrio numerados en rojo y negro. Crea tus propias reglas y juega con tu bebida favorita.",
+   "feats": [
+    "Ruleta giratoria con bolita",
+    "16 vasitos de vidrio numerados",
+    "Base circular con espacios para los vasos",
+    "Ideal para fiestas y reuniones"
+   ],
+   "imgs": [
+    "img/p/p-575-0.jpg",
+    "img/p/p-575-1.jpg",
+    "img/p/p-575-2.jpg"
+   ],
+   "thumb": "img/p/p-575-s.jpg",
+   "src": "23cc693ed1f2",
+   "added": "2026-11-27T03:18:11.356346+00:00",
+   "status": "pendiente"
+  },
+  {
+   "id": "P-576",
+   "name": "Camión todoterreno a control remoto de 6 ruedas con helicóptero",
+   "cat": "juguetes",
+   "price": 83,
+   "desc": "Camión todoterreno a control remoto de 6 ruedas, con llantas resistentes y suspensión para recorridos llenos de aventura. Lleva un helicóptero de juguete en la parte de atrás e incluye el control remoto tipo pistola. Ideal para regalar en Navidad.",
+   "feats": [
+    "6 ruedas todoterreno con suspensión",
+    "Incluye control remoto",
+    "Helicóptero de juguete en la parte trasera",
+    "Ideal para regalar"
+   ],
+   "imgs": [
+    "img/p/p-576-0.jpg",
+    "img/p/p-576-1.jpg"
+   ],
+   "thumb": "img/p/p-576-s.jpg",
+   "src": "88f20534eb03",
+   "added": "2026-11-27T03:18:11.356346+00:00",
+   "status": "pendiente"
+  },
+  {
+   "id": "P-577",
+   "name": "Gimnasio de actividades para bebé con sonajeros",
+   "cat": "bebes",
+   "price": 17,
+   "desc": "Gimnasio de actividades para bebé con arco y juguetes colgantes de colores: sonajeros, figuras divertidas y piezas giratorias y deslizables. Estimula la coordinación motora, la vista, el oído y la curiosidad. La estructura es desmontable y fácil de armar. Usar bajo supervisión de un adulto.",
+   "feats": [
+    "Sonajeros y figuras colgantes",
+    "Piezas giratorias y deslizables",
+    "Estimula la coordinación y los sentidos",
+    "Estructura desmontable"
+   ],
+   "imgs": [
+    "img/p/p-577-0.jpg"
+   ],
+   "thumb": "img/p/p-577-s.jpg",
+   "src": "5364a1d41d1d",
+   "added": "2026-11-27T03:18:11.356346+00:00",
+   "status": "pendiente"
+  },
+  {
+   "id": "P-578",
+   "name": "Caminador didáctico para bebé con panel musical",
+   "cat": "bebes",
+   "price": 24,
+   "desc": "Caminador de actividades para acompañar los primeros pasos del bebé, en color turquesa con detalles multicolores. Tiene panel interactivo con música, luces, engranajes, botones y piezas móviles, además de ruedas y manija de apoyo. Estimula la coordinación mano-ojo y la motricidad fina; recomendado desde los 0 meses.",
+   "feats": [
+    "Panel con música, luces y engranajes",
+    "Ruedas y manija de apoyo",
+    "Color turquesa con detalles multicolores",
+    "Recomendado desde 0 meses"
+   ],
+   "imgs": [
+    "img/p/p-578-0.jpg"
+   ],
+   "thumb": "img/p/p-578-s.jpg",
+   "src": "44b9230c9d31",
+   "added": "2026-11-27T03:18:11.356346+00:00",
+   "status": "pendiente"
+  },
+  {
+   "id": "P-579",
+   "name": "Maletín infantil 2 en 1 con ruedas",
+   "cat": "juguetes",
+   "price": 23,
+   "desc": "Maletín de juguete con ruedas y asa que se abre y se transforma en una estación de juegos. Modelo herramientas: mini taller con herramientas y accesorios. Modelo maquillaje: tocador infantil con espejo y accesorios de belleza. Recomendado desde 3 años; elige el modelo al agregarlo al carrito.",
+   "feats": [
+    "Maletín con ruedas y asa",
+    "Se transforma en estación de juegos",
+    "Recomendado desde 3 años",
+    "Herramientas o maquillaje, a elegir"
+   ],
+   "imgs": [
+    "img/p/p-579-0.jpg"
+   ],
+   "thumb": "img/p/p-579-s.jpg",
+   "src": "f2039a32d983",
+   "added": "2026-11-27T03:18:11.356346+00:00",
+   "status": "pendiente",
+   "opciones": [
+    {
+     "nombre": "Modelo",
+     "valores": [
+      "Herramientas",
+      "Maquillaje"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "P-580",
+   "name": "Mini taller de herramientas para niños de 53 piezas",
+   "cat": "juguetes",
+   "price": 23,
+   "desc": "Juego de mini taller con mesa de trabajo y variedad de herramientas de juguete, 53 piezas en total. Estimula la creatividad, la imaginación y la coordinación, y es fácil de armar. Recomendado para niños mayores de 3 años.",
+   "feats": [
+    "53 piezas",
+    "Mesa de trabajo con herramientas",
+    "Fácil de armar",
+    "Para mayores de 3 años"
+   ],
+   "imgs": [
+    "img/p/p-580-0.jpg"
+   ],
+   "thumb": "img/p/p-580-s.jpg",
+   "src": "06f45f671a34",
+   "added": "2026-11-27T03:18:11.356346+00:00",
+   "status": "pendiente"
+  },
+  {
+   "id": "P-581",
+   "name": "Tractor bulldozer a control remoto de 9 canales",
+   "cat": "juguetes",
+   "price": 32,
+   "desc": "Tractor tipo bulldozer de juguete con pala frontal funcional y ruedas tipo oruga. Control remoto de 9 canales a 2,4 GHz, movimiento en varias direcciones, sonido realista, luces delanteras y modo de demostración automática con un botón. Recomendado desde 6 años.",
+   "feats": [
+    "Control remoto de 9 canales, 2,4 GHz",
+    "Pala frontal funcional y orugas",
+    "Luces delanteras y sonido",
+    "Modo demostración automático",
+    "Desde 6 años"
+   ],
+   "imgs": [
+    "img/p/p-581-0.jpg"
+   ],
+   "thumb": "img/p/p-581-s.jpg",
+   "src": "6a562ba7b6cb",
+   "added": "2026-11-27T03:18:11.356346+00:00",
+   "status": "pendiente"
+  },
+  {
+   "id": "P-582",
+   "name": "Carro todoterreno a control remoto 6WD con efecto humo",
+   "cat": "juguetes",
+   "price": 21,
+   "desc": "Carro todoterreno a control remoto de 6 ruedas, escala 1:16, con luces LED, suspensión y llantas todoterreno. Tiene efecto de humo e incluye batería recargable, cable de carga USB y botella para el humo. Recomendado desde 3 años.",
+   "feats": [
+    "6 ruedas, escala 1:16",
+    "Luces LED y efecto de humo",
+    "Incluye batería recargable y cable USB",
+    "Desde 3 años"
+   ],
+   "imgs": [
+    "img/p/p-582-0.jpg"
+   ],
+   "thumb": "img/p/p-582-s.jpg",
+   "src": "66877e981498",
+   "added": "2026-11-27T03:18:11.356346+00:00",
+   "status": "pendiente"
+  },
+  {
+   "id": "P-583",
+   "name": "Dron avión de combate a control remoto",
+   "cat": "juguetes",
+   "price": 19,
+   "desc": "Dron en forma de avión de combate con cuatro hélices, hecho de material EPP ligero y resistente, con camuflaje azul, blanco y negro. Control remoto de 2,4 GHz con ascenso, descenso, giros de 360° y maniobras de vuelo. Incluye control remoto, cable de carga USB y manual. Recomendado desde 6 años.",
+   "feats": [
+    "Control remoto de 2,4 GHz",
+    "Giros de 360°",
+    "Material EPP ligero y resistente",
+    "Incluye cable de carga USB",
+    "Desde 6 años"
+   ],
+   "imgs": [
+    "img/p/p-583-0.jpg"
+   ],
+   "thumb": "img/p/p-583-s.jpg",
+   "src": "c65780a5e110",
+   "added": "2026-11-27T03:18:11.356346+00:00",
+   "status": "pendiente"
+  },
+  {
    "id": "P-542",
    "name": "Cascada de luces navideñas con estrella, 1,80 m",
    "cat": "navidad",
@@ -13599,5 +13897,5 @@
    }
   }
  ],
- "updated": "2026-11-25T20:41:10.706664+00:00"
+ "updated": "2026-11-27T03:18:11.356346+00:00"
 }
